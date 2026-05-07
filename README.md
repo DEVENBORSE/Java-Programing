@@ -67,6 +67,7 @@ I will keep updating this repository as I continue learning and growing.
 
 This repository reflects dedication, consistency, and continuous improvement.
 Every commit is one small step forward in my Java journey.
+It helps all java leraners to practice the codes as many as they want.
 
 Thanks for visiting! 😄
 
