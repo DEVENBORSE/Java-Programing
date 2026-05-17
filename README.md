@@ -9,6 +9,8 @@ This repository is my personal Java coding playground — a space where I learn,
 
 Every file here represents something new I’ve practiced, understood, or improved while learning Java.
 
+-----
+
 📚 What’s Inside?
 
 This repository contains runnable Java programs based on:
@@ -29,6 +31,8 @@ This repository contains runnable Java programs based on:
 
 Each program is written with the goal of understanding concepts deeply — not just making them work.
 
+-----
+
 🌱 Why This Repository Exists
 
 I believe coding is a skill you build step by step.
@@ -47,6 +51,8 @@ This repository helps me:
 
 It’s not just a collection of programs — it’s proof of progress.
 
+-----
+
 🛠 Tech Stack
 
 ☕ Java
@@ -54,6 +60,8 @@ It’s not just a collection of programs — it’s proof of progress.
 💻 VS Code / IntelliJ
 
 ⚙️ JDK
+
+-----
 
 🎯 My Mission
 
@@ -63,6 +71,8 @@ and from learner to confident developer 🚀
 
 I will keep updating this repository as I continue learning and growing.
 
+-----
+
 ⭐ Final Note
 
 This repository reflects dedication, consistency, and continuous improvement.
@@ -70,6 +80,8 @@ Every commit is one small step forward in my Java journey.
 It helps all java leraners to practice the codes as many as they want.
 
 Thanks for visiting! 😄
+
+-----
 
 🎓 Purpose
 This repository is maintained to:
